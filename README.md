@@ -1,6 +1,8 @@
 # kaguya-bot-discord
 Discord bot without moderating permissions made for fun to be used in servers.
 
+Written in Python using the Hikari library.
+
 Commands the bot can execute:
 
 **/ping** - Says pong! (And the bots latency)
