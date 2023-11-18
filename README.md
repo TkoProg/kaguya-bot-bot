@@ -1,7 +1,7 @@
 # kaguya-bot-discord
 Discord bot without moderating permissions made for fun to be used in servers.
 
-Written in Python using the Hikari library.
+Written in Python using the Hikari/Lightbulb library.
 
 Commands the bot can execute:
 
