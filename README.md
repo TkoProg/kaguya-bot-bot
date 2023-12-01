@@ -13,7 +13,7 @@ Commands the bot can execute:
 
 **/nerd** - Nerd-ify a word/sentence
 
-**/patch** - Sends an image of the current patch for League of Legends
+**/patch** - Sends an image of the current patch for League of Legends (Currently not working)
 
 **/luv** - Calculate your compatibility (luv) based on names
 
